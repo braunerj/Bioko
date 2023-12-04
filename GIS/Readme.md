@@ -1,1 +1,5 @@
-Here you will find all the GIS files for the Bioko project, soonish....
+/Chapter 1 
+Please find the supplementary GIS files for the manuscript 'Brauner et al. (under review). Volcano-tectonic architecture of Bioko Island (Equatorial Guinea) derived from TanDEM-X synthetic aperture radar data.', submitted to the Bulletin of Volcanology, here. The Documentation.pdf provides an overview of the file structure. Once accepted, feel free to reach out to me to get a copy of the article. 
+
+/Chapter 2
+<work in progress>
