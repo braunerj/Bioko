@@ -1,6 +1,6 @@
 # Bioko
 
-Here you can find the data, scripts and files I created for my dissertation project. To get an overview of which files have been used for which manuscript / chapter of the project, please find the appendices_readme below.
+Here you can find the data, scripts and files I created for my dissertation project. 
 
 ## File structure
 
